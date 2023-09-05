@@ -8,15 +8,14 @@ clear
 echo -e "Assistant of \e[5mDEVD_LODHI"
 echo "----------------------------" | lolcat
 echo "beta version
-          /██████\ /█████\ ███████\ ██████ ████ ██ ██████\ ██████\ /██████\
+          /██████\ /█████\ ███████\ ██████ ████ ██ ██████\ ██████\ /██████
           ██    ██ ██   ██ ██    ██ ██     ██ █ ██ ██   ██ ██   ██ ██    ██
           ██       ██   ██ ██    ██ ████   ██ █ ██ ██████/ █████/  ██    ██
           ██    ██ ██   ██ ██    ██ ██     ██ █ ██ ██      ██   █\ ██    ██
           \██████/ \█████/ ███████/ ██████ ██ ████ ██      ██   ██ \██████/
 
-         ████████████████████████████████████████████████████████████████████
+         ███████████████████████████████████████████████████████████████████
 
-   
                              .:xXXXX'              xXXX0o
                            'xXXXXXXXk             'XXXXXXX0l.
                           OXXXXXXXXXX;            OXXXXXXXXXX:
@@ -27,7 +26,7 @@ echo "beta version
                            lXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX.
                            .XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXk
                             0XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXc
-                            /         \KXXXXXXXX/         \
+                            /         \KXXXXXXXX/
                            l   ██████      ΠΠ      ██████    .'
                         .X0l.         .d00000000,.        .;xXd
                         cXXXXXKOOO00XXXXXXXXXXXXXXXK0OOO0KXXXXK.
@@ -47,7 +46,7 @@ echo "beta version
                                      ,oKXXXXXXXXkc.
                                     .''''''''''''''
 
-   
+
                                [+]YOUTUBE:~ CodenPro.com
                                █████████████████████████████
 
@@ -57,7 +56,6 @@ echo "beta version
                                [+]GitHub:~ @feeldevendra
                                █████████████████████████████
   " | lolcat
-  
+
 date | lolcat
 echo ""
-
