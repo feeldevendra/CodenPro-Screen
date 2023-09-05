@@ -2,6 +2,12 @@
 
 Welcome to the ultimate repository for transforming your Termux or Linux terminal into a cutting-edge, futuristic command center! Dive into a world of advanced aesthetics and enhanced functionality with our collection of meticulously crafted themes, plugins, and customizations. 🌟
 
+# ScreenShots 
+## image 01 
+![sreenshot 01](https://github.com/feeldevendra/CodenPro-Screen/blob/main/Screenshot_20230905_093947.jpg)
+## image 02 
+![Screenshot 02](https://github.com/feeldevendra/CodenPro-Screen/blob/main/Screenshot_20230905_093940.jpg)
+
 # Key Features
 - **Stunning Visual Overhaul:** Unleash the power of sleek, futuristic themes that turn your terminal into a visual masterpiece. Elevate your coding and command-line tasks with a touch of style. 💫
 
@@ -17,11 +23,9 @@ Welcome to the ultimate repository for transforming your Termux or Linux termina
 
 # Getting Started
 Elevate your coding and command-line tasks to a whole new level with our GitHub repository. Don't miss out on the opportunity to join a community of like-minded enthusiasts in the pursuit of the ultimate terminal experience.
+# Commands for installation 
+
+
 
 [Insert Repository Link]
 🌐 Explore our repository now and embark on a journey to the future of terminal computing! #Termux #Linux #TerminalCustomization #FuturisticDesign #GitHubRepository
-# ScreenShots 
-## image 01 
-![sreenshot 01](https://github.com/feeldevendra/CodenPro-Screen/blob/main/Screenshot_20230905_093947.jpg)
-## image 02 
-![Screenshot 02](https://github.com/feeldevendra/CodenPro-Screen/blob/main/Screenshot_20230905_093940.jpg)
