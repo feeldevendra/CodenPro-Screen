@@ -32,6 +32,5 @@ git clone https://github.com/feeldevendra/CodenPro-Screen/
 cd CodenPro-Screen
 chmod 777 *
 bash install.sh'''
-
-[Insert Repository Link]
+[https://github.com/feeldevendra/CodenPro-Screen]
 🌐 Explore our repository now and embark on a journey to the future of terminal computing! #Termux #Linux #TerminalCustomization #FuturisticDesign #GitHubRepository
