@@ -25,13 +25,14 @@ Welcome to the ultimate repository for transforming your Termux or Linux termina
 Elevate your coding and command-line tasks to a whole new level with our GitHub repository. Don't miss out on the opportunity to join a community of like-minded enthusiasts in the pursuit of the ultimate terminal experience.
 # Commands for installation 
 ## Termux Commands 
-'''bash
+```bash
 pkg update
 pkg upgrade
 pkg install git -y
 git clone https://github.com/feeldevendra/CodenPro-Screen/
 cd CodenPro-Screen
 chmod 777 *
-bash install.sh'''
+bash install.sh```
+
 [https://github.com/feeldevendra/CodenPro-Screen]
 🌐 Explore our repository now and embark on a journey to the future of terminal computing! #Termux #Linux #TerminalCustomization #FuturisticDesign #GitHubRepository
