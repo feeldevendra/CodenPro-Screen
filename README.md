@@ -2,7 +2,7 @@
 
 Welcome to the ultimate repository for transforming your Termux or Linux terminal into a cutting-edge, futuristic command center! Dive into a world of advanced aesthetics and enhanced functionality with our collection of meticulously crafted themes, plugins, and customizations. 🌟
 
-## Key Features
+# Key Features
 - **Stunning Visual Overhaul:** Unleash the power of sleek, futuristic themes that turn your terminal into a visual masterpiece. Elevate your coding and command-line tasks with a touch of style. 💫
 
 - **Effortless Customization:** Our repository offers a vast array of customization options, allowing you to fine-tune every aspect of your terminal, from fonts to colors and even animations. 🌈
@@ -15,8 +15,9 @@ Welcome to the ultimate repository for transforming your Termux or Linux termina
 
 - **Regular Updates:** We're committed to staying on the cutting edge of terminal design and functionality. Expect regular updates and new additions to keep your terminal experience fresh and futuristic. 🔄✨
 
-## Getting Started
+# Getting Started
 Elevate your coding and command-line tasks to a whole new level with our GitHub repository. Don't miss out on the opportunity to join a community of like-minded enthusiasts in the pursuit of the ultimate terminal experience.
 
 [Insert Repository Link]
 🌐 Explore our repository now and embark on a journey to the future of terminal computing! #Termux #Linux #TerminalCustomization #FuturisticDesign #GitHubRepository
+# ScreenShots 
